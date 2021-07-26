@@ -1,0 +1,5 @@
+workspace {
+  uid = "61a16e68-fc86-48f7-a9d2-860b22c87c01"
+  name = "wsap"
+  staleStateThresholdMinutes = undefined
+}
